@@ -1,8 +1,9 @@
 # ChanuxOrb
 Substitute for Cortana.(Can't do everything she does though)
 
-First you need python installed for this.
+First you need python installed for this.After python is installed;
 
 ```pip install -r requirements```
 
-Now installation is complete, feel free to modify and run the code.
+Now installation is complete, feel free to modify and run the code.Or run the .exe file.
+
