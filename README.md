@@ -5,5 +5,5 @@ First you need python installed for this.After python is installed;
 
 ```pip install -r requirements```
 
-Now installation is complete, feel free to modify and run the code.Or run the .exe file.
+Now installation is complete, feel free to modify and run the code.Or the .exe file.
 
