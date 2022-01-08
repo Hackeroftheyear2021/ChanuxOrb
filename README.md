@@ -5,4 +5,4 @@ First you need python installed for this.
 
 ```pip install -r requirements```
 
-And feel free to modify and run the code.
+Now installation is complete, feel free to modify and run the code.
